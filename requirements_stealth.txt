@@ -1,0 +1,7 @@
+python-telegram-bot
+telethon
+neonize
+qrcode
+pypng
+playwright
+playwright-stealth
